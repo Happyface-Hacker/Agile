@@ -16,3 +16,9 @@ speeds up the game for a few seconds with hurt immune
 gives you one extra life
 takes one life
 5: White and random blocks appear at 50, 100, 150 etc. levels.
+
+CREDITS:
+
+Creators: DarekCCC(https://stmn.itch.io/) 
+
+Soundtrack: Original track by Frankum & frankumjay.
